@@ -1,0 +1,13 @@
+numpy
+xarray
+netCDF4
+pillow
+matplotlib
+cartopy
+tqdm
+scipy
+geopandas
+requests
+shapely
+pyproj
+fiona
